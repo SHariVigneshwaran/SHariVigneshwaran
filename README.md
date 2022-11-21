@@ -1,4 +1,4 @@
-# Hey y'll
+# Hey y'll 👋
 
 I'm Hari, 20year lad, following his dreams, who's Interested in his Interests<3
 
