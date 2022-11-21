@@ -4,8 +4,6 @@ I'm Hari, 20year lad, following his dreams, who's Interested in his Interests<3
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 Siri install --Hari-Vigneshwaran
 running...
