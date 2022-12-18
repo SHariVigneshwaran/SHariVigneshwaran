@@ -2,7 +2,7 @@
 
 I'm Hari, 20year lad, following his dreams, who's Interested in his Interests<3
 
-Started his journey in coding.
+Just Started his journey in coding.
 
 ## Installation
 
