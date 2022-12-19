@@ -51,33 +51,6 @@ Also working on all the things my PC supports.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## TOOLS
-- OpenCV
-- Pandas
-- Unity
-- Visual Studio Code
-- TensorFlow
-- UnrealEngine
-- Seaborn
-- Matplotlib
-- Postgres
-- MySQL
-- MongoDB
-- Firebase
-
-- Git
-## LANGUAGES KNOWN
-- தமிழ் (Tamil)
-- English
-- हिन्दी
-
-- español(basic)
-
-
-## EDUCATION
-
-- Completed my high school at Chinmaya Vidyalaya Higher Secondary School
-- Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college
 
 ## License
 
