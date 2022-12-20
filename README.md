@@ -6,7 +6,7 @@
 
 I'm a Developing **Full Stack Developer**.🌀
 
-**Working hard to create my own empire**. 🏗️ See you there. 🌏 
+**Working hard to create my own empire**. 🏗️ See y'all there👋 
 
 
 <div>
