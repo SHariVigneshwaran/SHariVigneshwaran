@@ -2,7 +2,7 @@
 
 <img align = "right" width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif"/>
 
-## This is **Hari** 
+## This is **Hari Vigneshwaran** 
 
 I'm a Developing **Full Stack Developer**.🌀
 
