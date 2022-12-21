@@ -10,15 +10,16 @@ I'm a Developing **Full Stack Developer**.🌀
 
 
 <div>
-<img align="right" width="150" height="100" src="https://media.giphy.com/media/vfTU7qrHRJPwdeaMha/giphy-downsized-large.gif"/>
+<img align="right" width="150" height="100" src="https://media.giphy.com/media/64amXjwNWctjqXZZ7o/giphy.gif"/>
 </div>
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-vigneshwaran-97499a213/) [![LeetCode](https://img.shields.io/badge/LeetCode-%FFFF00F?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/HariVigneshwaran/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hariviks/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20243015Hari) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <div>
-<img align="right" width="140" height="120" src="https://media.giphy.com/media/64amXjwNWctjqXZZ7o/giphy.gif"/>
+<img align="right" width="140" height="120" src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif"/>
 </div>
 
 # 💻 Tech Stack:
