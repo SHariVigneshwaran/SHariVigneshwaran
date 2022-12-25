@@ -33,7 +33,7 @@ I'm a Developing **Full Stack Developer**.🌀
 ![](https://github-profile-trophy.vercel.app/?username=SHariVigneshwaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHariVigneshwaran&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SHariVigneshwaran&label=Profile%20Views&color=10&pretty=true)](https://visitcount.itsvg.in)
 
 ## LANGUAGES 🧠
   - தமிழ் (Tamil) 
