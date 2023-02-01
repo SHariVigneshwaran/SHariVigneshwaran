@@ -45,10 +45,12 @@ I'm a Developing **Full Stack Developer**.🌀
 - Completed my high school at Chinmaya Vidyalaya Higher Secondary School 
 - Currently pursuing B.Tech Artificial Intelligence and Data Science at Easwari Engineering college.
 
-## MY THOUGHTS ON LIFE 📚
+<a href=#><img src="contributions.svg"></a>
 
-<div>
-<img align="center" src="https://raw.githubusercontent.com/dstein64/gifcast/master/example.gif"/>
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
 
 
